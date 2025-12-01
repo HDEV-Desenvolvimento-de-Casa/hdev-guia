@@ -18,7 +18,12 @@ Este repositório organiza todo o conteúdo escrito da comunidade, oferecendo es
 ---
 
 ## 🗂 Estrutura
-Todo o material está disponível na pasta `/docs`, dividido por áreas de estudo.
+
+`carreira/` – conteúdos sobre carreira e suas atividades.
+
+`devtools/` – conteúdos sobre ferramentas e suas atividades.
+
+(novas pastas serão adicionadas conforme os temas forem sendo organizados).
 
 ---
 
